@@ -1,0 +1,38 @@
+[
+  {
+    "id": "uk-001",
+    "title": "UK Sample A",
+    "category": "UK",
+    "price": 25.0,
+    "stock": 12,
+    "image": "https://picsum.photos/seed/uk1/600/400",
+    "notes": "Fresh batch"
+  },
+  {
+    "id": "us-101",
+    "title": "USA Sample B",
+    "category": "USA",
+    "price": 35.0,
+    "stock": 0,
+    "image": "https://picsum.photos/seed/us1/600/400",
+    "notes": "Sold out"
+  },
+  {
+    "id": "ex-301",
+    "title": "Extract Sample",
+    "category": "Extracts",
+    "price": 45.0,
+    "stock": 7,
+    "image": "https://picsum.photos/seed/ex1/600/400",
+    "notes": ""
+  },
+  {
+    "id": "ed-501",
+    "title": "Edible Sample",
+    "category": "Edibles",
+    "price": 15.0,
+    "stock": 20,
+    "image": "https://picsum.photos/seed/ed1/600/400",
+    "notes": "Assorted"
+  }
+]
